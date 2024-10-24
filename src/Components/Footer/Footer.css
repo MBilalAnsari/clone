@@ -1,0 +1,7 @@
+.subfooter{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+    /* width: 100%; */
+}
